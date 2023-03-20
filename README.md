@@ -35,11 +35,13 @@ Test Account
 Enter Employee ID: test
 Enter Password: test
 
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
-
 To add more categories in the inventory you must add more options in the select input at the new_item and edit_save PHP
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
 LOGIC BOMB is at authenticate.php, INV_Function.php and POS_Functions.php and will trigger on specific input by the user on index.html
 
-
 This project is the same with added Bombs in it. It is obvious where as the bomb is input-based on PHP. 
+
+This project is done by me (adding the bombs) but the project was done together with me and jacob-cruz a long time ago. This is dedicated for a Project Exam
+in regards to Logic Bombs in functioning web application. This is my take on in this task.
