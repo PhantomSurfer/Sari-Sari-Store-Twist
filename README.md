@@ -1,4 +1,4 @@
-# Sari-Sari-Store
+# Sari-Sari-Store-Twist
 
 This is System that has two main sub-system combined but separeted would be indepedent to each other.
 This sub-systems are an inventory sub-system and a pos sub-system.
